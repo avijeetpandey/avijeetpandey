@@ -10,7 +10,7 @@ I am a full-stack developer . I love programming, cooking and going on solo trip
 
 As a software engineer, I enjoy building softwares , and it always amazes me seeing something coming to existence with bunch of lines that i wrote 😃 , I am always up of learning new tools and technologies and ready to provide solution to problems using my code .
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="308" height="218" />
   
 
 **Talking about Personal Stuffs:**
