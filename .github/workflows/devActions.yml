@@ -8,7 +8,7 @@ on:
 
 jobs:
   update-readme:
-    name: avijeetpandey
+    name: avijeet pandey
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
