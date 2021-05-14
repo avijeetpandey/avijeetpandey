@@ -27,6 +27,9 @@ As a software engineer, I enjoy building softwares , and it always amazes me see
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
+```
+No activity tracked
+```
 <!--END_SECTION:waka-->
 
 
