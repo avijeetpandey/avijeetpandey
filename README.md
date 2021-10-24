@@ -15,10 +15,10 @@ As a software engineer, I enjoy building softwares , and it always amazes me see
 
 **Talking about Personal Stuffs:**
 
-- 👨🏻‍💻 I’m currently learning **iOS Development**
+- 👨🏻‍💻 I’m currently working as a software engineer 
 - 🚀 I have experience working with Javascript across the stack
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: avijeetpandey25@gmail.com;
+- 📫 How to reach me: avijeetpandey25@gmail.com
 
 <!--
 - 📝 [Resume](https://gkassym.netlify.app/Resume.pdf).
