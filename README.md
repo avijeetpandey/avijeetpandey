@@ -26,11 +26,11 @@ As a software engineer, I enjoy building softwares , and it always amazes me see
 </br>
 
 📊 **This Week I Spent My Time On:**
-START_SECTION:waka
+<!-- START_SECTION:waka -->
 ```text
 No Activity tracked this Week
 ```
-END_SECTION:waka
+<!-- END_SECTION:waka -->
 
 
 📈 **My GitHub Stats:**
