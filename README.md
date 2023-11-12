@@ -3,9 +3,15 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/avijeet2200)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://avijeetpandey.github.io)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/avijeetpandey25)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://www.instagram.com/code.with.avii/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-00rcee?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/code.with.avii/)
+
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=avijeetpandey.avijeetpandey)
+
 
 I am a full-stack developer . I love programming, cooking and going on solo trips
 
