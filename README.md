@@ -23,7 +23,7 @@ As a software engineer, I enjoy building softwares , and it always amazes me see
 **Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I’m currently working as a software engineer 
-- 🚀 I have experience working with Javascript across the stack
+- 🚀 I have experience working with Kotlin and Native android development
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: avijeetpandey25@gmail.com
 
